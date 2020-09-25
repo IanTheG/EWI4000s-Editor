@@ -1,0 +1,1 @@
+open thispatcherappicon "C:/Users/Ian G/Downloads/EWI 4000s Editor/EWI 4000s Editor/support/interfaces/Editor.ico"
